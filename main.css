@@ -1,0 +1,10 @@
+body {
+	background: rgb(172,76,237);
+	background: linear-gradient(90deg, rgba(172,76,237,1) 31%, rgba(251,0,239,1) 82%);
+	font-family: Verdana;
+	color: white;
+}
+
+.emoji {
+	font-size: 50px;
+}
